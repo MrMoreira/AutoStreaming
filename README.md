@@ -36,4 +36,4 @@ Com um pequeno comando, você instala todos esses serviços, é simples e rápid
 
 
 ***
-[Como Instalar](https://github.com/MrMoreira/AutoStreaming/wiki/How-to-Install)
+[Como Instalar](https://github.com/MrMoreira/AutoStreaming/wiki/How-to-Install#portugues---br)
